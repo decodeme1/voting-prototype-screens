@@ -1,2 +1,2 @@
 # voting-prototype-screens
-Prototipação das telas do projeto voting
+O proposito desse repositório será amarzenar os protótipos das telas do projeto voting.
